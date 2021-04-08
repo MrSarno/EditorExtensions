@@ -1,0 +1,22 @@
+    "editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.maxColumn": 200,
+    "editor.minimap.showSlider": "always",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "indentRainbow.colors": [
+        "rgba(16,16,16,0.1)",
+        "rgba(16,16,16,0.2)"
+        "rgba(16,16,16,0.3)",
+        "rgba(16,16,16,0.4)",
+        "rgba(16,16,16,0.5)",
+        "rgba(16,16,16,0.6)",
+        "rgba(16,16,16,0.7)",
+        "rgba(16,16,16,0.8)",
+        "rgba(16,16,16,0.9)",
+        "rgba(16,16,16,1.0)"
+    ],

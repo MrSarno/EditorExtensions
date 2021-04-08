@@ -1,0 +1,1 @@
+This is just a repo that stores the names of some plugins I use in IDEs. :)

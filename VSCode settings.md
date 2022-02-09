@@ -1,3 +1,5 @@
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
     "editor.fontFamily": "'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
     "workbench.colorTheme": "One Dark Pro Monokai Darker",
     "editor.minimap.renderCharacters": false,

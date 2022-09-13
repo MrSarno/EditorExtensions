@@ -27,6 +27,11 @@
 * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
  
  
+## C#
+
+* [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+ 
+ 
 ## CSS / HTML
 
 * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
